@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xiuhechong, but you can call me Julia
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently study Biomedial Sciences at univerity
