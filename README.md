@@ -1,3 +1,3 @@
-- 👋 Hello, I’m @xiuhechong, but you can call me Julia
-- 👀 I’m interested in learnig more about data science and the R program
-- 🌱 I’m currently study Biomedial Sciences at univerity
+- 👋 Hello, I’m @xiuhechong or Julia
+- 👀 I am interested in learning more about data science and the R program
+- 🌱 I am currently studying Biomedical Sciences at university 
